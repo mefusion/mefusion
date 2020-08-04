@@ -12,4 +12,4 @@ I'm not very active on GitHub, so please use socials below to contact me, if you
 ### 🌃 You can find me in:
 * [VK Page](https://vk.com/id233376981)
 * [Discord Server](https://discord.gg/v7cxucv)
-* `OFFLINE` [My website](https://ifusion.me)
+* [My website](https://ifusion.me)
