@@ -7,7 +7,7 @@ I'm not very active on GitHub, so please use socials below to contact me, if you
 
 ### 🔰 My achievements
 * Discord Bug Hunter since 15/02/2019
-* `Retired` VimeWorld MiniGames Moder [1/07/2019 - 26/10/2019] [1/02/2020 - 17/04/2020]
+* VimeWorld MiniGames Moder [1/07/2019 - 26/10/2019] [1/02/2020 - 17/04/2020] [since 10/04/2021]
 
 ### 🌃 You can find me in:
 * [VK Page](https://vk.com/id233376981)
