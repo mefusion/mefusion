@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-I'm 18 years old lazy, a bit stupid ~~programmer~~. Making internet better (?) since 2012. Nice to meet you!
+I'm 19 years old lazy, a bit stupid ~~programmer~~. Making internet better (?) since 2012. Nice to meet you!
 
 I can speak Russian (native) and English (not very good)
 
