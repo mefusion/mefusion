@@ -6,7 +6,7 @@ I can speak Russian (native) and English (not very good)
 I'm not very active on GitHub, so please use socials below to contact me, if you wish.
 
 ### 🔰 About me
-* Discord Bug Hunter since 15/02/2019
+* Former Discord Bug Hunter [15/02/2019 - 11/08/2022]
 * VK Tester since 10/11/2019
 * VimeWorld MiniGames Retired Moder [1/07/2019 - 26/10/2019] [1/02/2020 - 17/04/2020] [10/04/2021 - 21/09/2021]
 
