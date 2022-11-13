@@ -8,7 +8,7 @@ I'm not very active on GitHub, so please use socials below to contact me, if you
 ### 🔰 About me
 * Former Discord Bug Hunter [15/02/2019 - 11/08/2022]
 * VK Tester since 10/11/2019
-* VimeWorld MiniGames Moder since 21.08.2022 [1/07/2019 - 26/10/2019] [1/02/2020 - 17/04/2020] [10/04/2021 - 21/09/2021]
+* VimeWorld MiniGames Moder since 21/08/2022 [1/07/2019 - 26/10/2019] [1/02/2020 - 17/04/2020] [10/04/2021 - 21/09/2021]
 
 ### 🌃 Contact me:
 <p align="center">
