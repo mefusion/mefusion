@@ -1,9 +1,9 @@
-### 👋 Hi there 
-I'm 19 years old lazy, a bit stupid C# ~~programmer~~. Making internet better (?) since 2012. Nice to meet you!
+### 👋 Welcome
+I'm 19 years old lazy, a bit stupid C# ~~programmer~~. Making internet better (?) since 2012.
 
-I can speak Russian (native) and English (not very good)
+I can speak Russian (native) and English (not very good).
 
-I'm not very active on GitHub, so please use socials below to contact me, if you wish.
+I'm not very active on GitHub, so if you wish to contact me, use socials below.
 
 ### 🔰 About me
 * Former Discord Bug Hunter [15/02/2019 - 11/08/2022]
