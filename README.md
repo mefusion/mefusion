@@ -14,7 +14,7 @@ I'm not very active on GitHub, so if you wish to contact me, use socials below.
 ### 🌃 Contact me:
 <p align="center">
 <a href="https://vk.com/futuristiclover7"><img src="https://img.shields.io/badge/-@futuristiclover7-3423A6?style=flat&logo=vk&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-@fusiondream-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/-@fusioneternity-5865F2?style=flat&logo=discord&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/dreamfusion"><img src="https://img.shields.io/badge/-Fusion%20Prime-black?style=flat&logo=steam&logoColor=white"/></a>
 <a href="https://crowdin.com/profile/7fusionprime"><img src="https://img.shields.io/badge/-@7fusionprime-darkgreen?style=flat&logo=crowdin&logoColor=white"/></a>
 </p>
