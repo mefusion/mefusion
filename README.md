@@ -6,10 +6,11 @@ I can speak Russian (native) and English (not very good).
 I'm not very active on GitHub, so if you wish to contact me, use socials below.
 
 ### 🔰 About me
-* Former Discord Bug Hunter [15/02/2019 - 11/08/2022]
 * VK Tester since 10/11/2019
-* VimeWorld MiniGames Moder since 21/08/2022 [31/07/2019 - 26/10/2019] [1/02/2020 - 17/04/2020] [10/04/2021 - 21/09/2021]
-* VimeWorld MiniGames Trusted Moder since 12/08/2023
+* 
+* Former Discord Bug Hunter [15/02/2019 - 11/08/2022]
+* Former VimeWorld MiniGames Moder [31/07/2019 - 26/10/2019] [1/02/2020 - 17/04/2020] [10/04/2021 - 21/09/2021] [21/08/2022 - 12/08/2023]
+* Former VimeWorld MiniGames Warden [12/08/2023 - 07/12/2024]
 
 ### 🌃 Contact me:
 <p align="center">
